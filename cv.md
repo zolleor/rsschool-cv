@@ -11,6 +11,10 @@
 
 ## About Me
 
+Hi! My name is Denis. I want to became a Frontend Developer. 
+
+I strive for success and results. I have good time management skills. I meet deadlines. And I have the time to learn new technologies.
+
 ## My Skills
 
 * Tech Stack
