@@ -1,5 +1,7 @@
 # Denis Kovalev
 
+![Denis Kovalev Photo](https://assets.htmlacademy.ru/previews/681/20210624_717a89b9-150.jpg)
+
 ## Contact Information
 
 - **Discord:** zolleor#0809
