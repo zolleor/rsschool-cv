@@ -1,1 +1,1 @@
-https://zolleor.github.io/rsschool-cv
+https://zolleor.github.io/rsschool-cv/
