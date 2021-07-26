@@ -1,0 +1,63 @@
+.container {
+    width: 1024px;
+    margin: 0 auto;
+}
+
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border: 0;
+    padding: 0;
+    white-space: nowrap;
+    clip-path: inset(100%);
+    clip: rect(0 0 0 0);
+    overflow: hidden;
+}
+
+.main-header,
+.about-me {
+    margin-top: 25px;
+    text-align: center;
+}
+
+.main-header img {
+    border-radius: 50%;
+}
+
+.contacts-list {
+    display: flex;
+    justify-content: center;
+}
+
+.contacts-item {
+    margin-right: 20px;
+    list-style-type: none;
+}
+
+.contacts-item:last-child {
+    margin-right: 0;
+}
+
+.skills-list ul:first-child {
+    margin-bottom: 10px;
+}
+
+pre {
+    padding: 10px;
+    padding-left: 20px;
+    border-left: 3px solid rgb(97, 212, 97);
+    background-color: #f9f9f9;
+}
+
+.main-footer {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    margin-top: 50px;
+}
+
+.year {
+    align-self: center;
+}
