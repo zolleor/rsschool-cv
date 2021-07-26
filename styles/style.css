@@ -39,3 +39,25 @@
 .contacts-item:last-child {
     margin-right: 0;
 }
+
+.skills-list ul:first-child {
+    margin-bottom: 10px;
+}
+
+pre {
+    padding: 10px;
+    padding-left: 20px;
+    border-left: 3px solid rgb(97, 212, 97);
+    background-color: #f9f9f9;
+}
+
+.main-footer {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    margin-top: 50px;
+}
+
+.year {
+    align-self: center;
+}
